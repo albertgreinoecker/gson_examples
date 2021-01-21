@@ -1,0 +1,13 @@
+{
+	"name": "Hubert",
+	"mobile": 12345678,
+	"avtive": true,
+	"pets": [
+		"Dog",
+		"cat"
+	],
+	"address": {
+		"permanent": "USA",
+		"current": "AU"
+	}
+}
