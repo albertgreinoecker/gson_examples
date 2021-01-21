@@ -7,6 +7,9 @@ import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
 import com.google.gson.JsonObject;
 
+/**
+ * Hier befinden sich alle Beispiele zum Einlesen bzw. Hinausschreiben von JSON
+ */
 public class GsonTestMain {
 
 	public static void main(String[] args) throws FileNotFoundException {
